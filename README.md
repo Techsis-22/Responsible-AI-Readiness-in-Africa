@@ -1,7 +1,8 @@
-# Responsible-AI-Readiness-in-Africa
+# Responsible-AI-Readiness-in-Africahttps://gi
 An interactive Power BI dashboard analysing responsible AI readiness across 39 African countries using data from the Global Index on Responsible AI (GIRAI) 2026.
 
-![Responsible AI Readiness Dasboard](https://github.com/Techsis-22/Responsible-AI-Readiness-in-Africa/blob/main/Screenshot%20(60).png?raw=true )
+![Responsible AI Readiness Dasboard](https://github.com/Techsis-22/Responsible-AI-Readiness-in-Africa/blob/main/Screenshot%20(60).png?raw=true)
+![](https://github.com/Techsis-22/Responsible-AI-Readiness-in-Africa/blob/main/Screenshot%20(61).png?raw=true)
 
 
 ### DSN AI Bootcamp 2026 Hackathon | Winning Team | Team Lead
