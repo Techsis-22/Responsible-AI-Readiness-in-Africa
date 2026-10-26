@@ -4,6 +4,7 @@ An interactive Power BI dashboard analysing responsible AI readiness across 39 A
 ![Responsible AI Readiness Dasboard](https://github.com/Techsis-22/Responsible-AI-Readiness-in-Africa/blob/main/Screenshot%20(60).png?raw=true)
 ![](https://github.com/Techsis-22/Responsible-AI-Readiness-in-Africa/blob/main/Screenshot%20(61).png?raw=true)
 ![](https://github.com/Techsis-22/Responsible-AI-Readiness-in-Africa/blob/main/Screenshot%20(62).png?raw=true)
+![](https://github.com/Techsis-22/Responsible-AI-Readiness-in-Africa/blob/main/Screenshot%20(63).png?raw=true)
 
 
 ### DSN AI Bootcamp 2026 Hackathon | Winning Team | Team Lead
